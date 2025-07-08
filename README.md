@@ -1,6 +1,6 @@
 ## Hi, I'm JiYun 👋 👋
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
