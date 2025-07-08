@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm JiYun 👋 👋
 
 <!--
 **yooon613/yooon613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
