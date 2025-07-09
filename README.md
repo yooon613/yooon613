@@ -41,13 +41,13 @@
 
 | Domain | Tech |
 |--------|------|
-| **Languages** | C, C++, Java, Python, C# |
-| **Web/Backend** | Spring Boot, Streamlit |
-| **ML/DL** | PyTorch, TensorFlow, Keras, scikit-learn |
-| **Data/Visualization** | Pandas, NumPy, Seaborn, Matplotlib |
-| **Computer Vision** | OpenCV |
-| **Robotics** | ROS, Rviz, Ubuntu |
-| **Tools** | Git, VS Code, Visual Studio, Notion, Colab, Jupyter |
+| **Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> |
+| **Web/Backend** | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> |
+| **ML/DL** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> |
+| **Data/Visualization** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-42B0A9?style=flat"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/> |
+| **Computer Vision** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> |
+| **Robotics** | <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Rviz-22314E?style=flat"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> |
 
 ---
 
